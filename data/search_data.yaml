@@ -1,0 +1,9 @@
+test_search:
+  test_search_001:
+    key: "hello"
+#  test_search_002:
+#    key: "123"
+#  test_search_003:
+#    key: "你好"
+#  test_search_004:
+#    key: "今天天气不错"

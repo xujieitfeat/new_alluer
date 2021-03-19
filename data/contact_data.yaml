@@ -1,0 +1,14 @@
+test_add_contact:
+  test_add_contact_001:
+    name: "zhangsan"
+    phone: "177"
+    email: "zhangsan@163.com"
+#  test_add_contact_002:
+#    name: "lisi"
+#    phone: "188"
+#    email: "lisi@gmail.com"
+#  test_add_contact_003:
+#    name: "wangwu"
+#    phone: "188"
+#    email: "wangwu@qq.com"
+
